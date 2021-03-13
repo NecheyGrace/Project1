@@ -2,11 +2,12 @@
     margin: 0px;
     padding: 0px;
     box-sizing: border-box;
-    font-family:Bai Jamjuree ;
+    font-family: italics;
 }
 body{
     text-align: center;
     font-weight: bold;
+    overflow-x: hidden;
     
 }
 
