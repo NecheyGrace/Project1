@@ -3,11 +3,10 @@
     padding: 0px;
     box-sizing: border-box;
     font-family: italics;
-}
+    overflow-x: hidden;
 body{
     text-align: center;
     font-weight: bold;
-    overflow-x: hidden;
     
 }
 
